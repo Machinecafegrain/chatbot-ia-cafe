@@ -1,0 +1,258 @@
+[
+  {
+    "nom":"Expresso Broyeur KRUPS EA875E10",
+    "description":"<span style=\"font-weight: 400;\">Une machine à café à grains intuitive, performante et élégante, avec écran tactile, carafe à lait intégrée et 15 boissons en un seul geste. La <strong>KRUPS Intuition Préférence+<\/strong> est idéale pour un café personnalisé au quotidien.<\/span><span style=\"font-weight: 400;\">\r\\n<\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur JURA ENA 8 Full Nordic White",
+    "description":"<span style=\"font-weight: 400;\">Design compact, broyeur haute précision, écran tactile intelligent : la <strong>JURA ENA 8<\/strong> est l'expresso-broyeur idéal pour savourer un café d'exception, jour après jour, dans un format élégant et connecté.<\/span>",
+    "tranche_prix":"Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Buse vapeur manuelle",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur DeLonghi PrimaDonna Elite ECAM650.75.MS connecté",
+    "description":"<span style=\"font-weight: 400;\">La <strong>PrimaDonna Elite de Delonghi<\/strong> combine design italien, technologie connectée et personnalisation avancée. Préparez jusqu'à 15 boissons, enregistrez vos préférences et profitez d'un café de qualité barista, contrôlable à distance.<\/span><span style=\"font-weight: 400;\">\r\\n<\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur DeLonghi Dinamica Plus FEB38.95TB",
+    "description":"<span style=\"font-weight: 400;\">La <strong>Delonghi Dinamica FEB3895.TB<\/strong> est une machine à café haut de gamme alliant design compact, interface tactile intuitive et large choix de boissons. 23 recettes chaudes et lactées, carafe à lait, fonction 'MY' et broyeur réglable pour une expérience café personnalisée.<\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur DeLonghi PrimaDonna Soul ECAM610.75.MB Noir",
+    "description":"<span style=\"font-weight: 400;\">La <strong>Delonghi PrimaDonna Soul<\/strong> allie design, connectivité et intelligence pour offrir un café parfaitement adapté à chaque variété de grain. 21 boissons personnalisables, écran tactile et technologie Bean Adapt pour une expérience café haut de gamme. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur DeLonghi Eletta Explore ECAM450.65.S Silver",
+    "description":"<span style=\"font-weight: 400;\">La <strong>Delonghi Eletta Explore<\/strong> est une machine à café haut de gamme capable de préparer plus de 40 boissons chaudes, froides ou à emporter. Connectée, intuitive et puissante, elle offre une expérience coffee shop à domicile, parfaitement personnalisée.<\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur DeLonghi Rivelia Latte FEB4455.G",
+    "description":"<span style=\"font-weight: 400;\">La <strong>Rivelia Latte de Delonghi<\/strong> offre une expérience café immersive avec 2 bacs à grains interchangeables, écran tactile 3,5\", 16 boissons personnalisables et une mousse de lait parfaite. Design compact et technologie intuitive pour un café haut de gamme à la maison.<\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur KRUPS YY5568FD Arabica",
+    "description":"<span style=\"font-weight: 400;\">La <strong>KRUPS Essential YY5568FD<\/strong> est une machine compacte et performante, idéale pour savourer des expressos maison au quotidien. Facile d'utilisation, économique et durable, elle est parfaite pour les amateurs de café en quête de simplicité et de goût. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Buse vapeur manuelle",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur MELITTA Latticia One Touch F300-100 Noir Mat",
+    "description":"<span style=\"font-weight: 400;\">Compacte, intuitive et connectée, la <strong>Melitta Latticia One Touch<\/strong> prépare jusqu'à 12 boissons dont cappuccino, espresso ou latte macchiato. Idéale pour un usage quotidien, elle allie simplicité, performance et design moderne. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur KITCHENAID 5KES8557EPL",
+    "description":"<span style=\"font-weight: 400;\">La <strong>KITCHENAID 5KES8557EPL<\/strong> allie silence, robustesse et précision pour une expérience café premium à domicile. Plus de 20 recettes, 7 niveaux de mouture, et une conception haut de gamme pour les amateurs exigeants. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur JURA J8 Piano Black",
+    "description":"<span style=\"font-weight: 400;\">Design premium, 31 recettes café &amp; thé, écran tactile intelligent : la <strong>JURA J8<\/strong> est un expresso-broyeur connecté, ultra-personnalisable et parfaitement adapté à un usage quotidien exigeant, à la maison ou au bureau. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur JURA E6 Dark Inox EC",
+    "description":"<span style=\"font-weight: 400;\">Broyeur Aroma Pro, mousse de lait fine, personnalisation simple : la <strong>JURA E6<\/strong> est l'expresso-broyeur idéal pour un café savoureux au quotidien, que ce soit à la maison ou au bureau. Intuitive, fiable et performante. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":null,
+    "lait":null,
+    "broyeur":null,
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur KRUPS YY5058FD intuition experience+",
+    "description":"<span style=\"font-weight: 400;\">Expérience café sur-mesure, écran tactile intuitif, 21 recettes et carafe à lait automatique : la<strong> KRUPS Intuition Préférence+<\/strong> est une machine robuste, fabriquée en France, idéale pour ceux qui veulent un café de barista à la maison, simplement et en silence. <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur KRUPS EA810B70",
+    "description":"<span style=\"font-weight: 400;\"> Compacte, intuitive et fabriquée en France, la <strong>KRUPS Essential<\/strong> est l'expresso-broyeur parfait pour savourer un café fraîchement moulu, à la maison, en toute simplicité. Idéale pour un usage quotidien sans prise de tête. <\/span>",
+    "tranche_prix":null,
+    "lait":null,
+    "broyeur":null,
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur KITCHENAID 5KES8556ESX",
+    "description":"<span style=\"font-weight: 400;\">Silencieuse, performante et personnalisable : la <strong>KITCHENAID 5KES8556ESX<\/strong> est un expresso-broyeur haut de gamme avec carafe à lait, écran tactile et 4 profils mémorisables, pour un café ou cappuccino parfaitement adapté à chaque utilisateur, sans compromis. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur JURA Giga 10 Diamond Black",
+    "description":"<span style=\"font-weight: 400;\">Double broyeur céramique, 35 recettes personnalisables, écran tactile panoramique : la <strong>JURA Giga 10<\/strong> est le choix ultime pour les amoureux de café qui veulent ce qu'il y a de meilleur, à la maison comme au bureau. Élégante, puissante et ultra intuitive. <\/span>",
+    "tranche_prix":null,
+    "lait":null,
+    "broyeur":null,
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur JURA ENA 8 Full Metropolitan Black",
+    "description":"<span style=\"font-weight: 400;\">Compacte, élégante et intuitive : la <strong>JURA ENA 8 Full Metropolitan<\/strong> offre un café fraîchement moulu de qualité barista à la maison, même dans les petits espaces. 8 recettes, écran tactile et mousse de lait onctueuse, sans capsules. <\/span>\r\\n\r\\n&nbsp;",
+    "tranche_prix":"Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur SMEG Collezione BCC12WHMEU",
+    "description":"<span style=\"font-weight: 400;\">Compacte, élégante et intuitive, la <strong>SMEG BCC12WHMEU<\/strong> allie design italien et performance avec broyeur acier, buse vapeur, 6 recettes et 19 bars de pression. L'expresso broyeur idéal pour savourer un café de caractère au quotidien, même en petit espace<\/span>\r\\n\r\\n&nbsp;\r\\n\r\\n&nbsp;",
+    "tranche_prix":"Réglage de la température, Réglage du volume en tasse",
+    "lait":"Buse vapeur manuelle",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur PHILIPS EP5547\/90 LatteGo",
+    "description":"<span style=\"font-weight: 400;\">La <strong>Philips LatteGo Série 4300<\/strong> vous offre 22 recettes café &amp; lactées, 4 profils personnalisables et une mousse de lait onctueuse en un clic. Une machine intuitive, puissante et élégante pour toute la famille, à la maison comme au bureau.<\/span>\r\\n\r\\n&nbsp;\r\\n\r\\n&nbsp;",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Systeme LatteGo",
+    "broyeur":"Céramique",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur SAGE APPLIANCES Oracle Touch",
+    "description":"<span style=\"font-weight: 400;\">Avec <strong>The Oracle Touch de Sage<\/strong>, offrez-vous un café digne d'un coffee shop à la maison : broyeur intégré, dosage automatique, mousse de lait réglable et jusqu'à 8 boissons personnalisées, le tout via un écran tactile ultra intuitif. <\/span>\r\\n\r\\n&nbsp;\r\\n\r\\n&nbsp;",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Buse vapeur manuelle",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur JURA C8 Piano Black",
+    "description":"<span style=\"font-weight: 400;\"><strong>Le JURA C8 Piano Black<\/strong> allie compacité, élégance et performance. Grâce au broyeur Professional Aroma Grinder, à la technologie 3D de percolation et à l'application J.O.E., il offre une qualité de café exceptionnelle en toute simplicité. 8 recettes, connectivité et entretien automatisé.<\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur JURA Z10 Aluminium Black",
+    "description":"<span style=\"font-weight: 400;\"> La <strong>JURA Z10 Aluminium Black<\/strong> est un expresso broyeur haut de gamme alliant technologies avancées, design suisse raffiné et 32 recettes chaudes &amp; Cold Brew. Écran tactile réactif, broyeur intelligent P.R.G., buse vapeur, application J.O.E. et Cold Extraction Process pour un café toujours sur-mesure. <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur DeLonghi Primadonna Aromatic ECAM630.55.SSM",
+    "description":"<span style=\"font-weight: 400;\">La<strong> Delonghi PrimaDonna Aromatic ECAM630.55.SSM<\/strong> est un expresso broyeur premium alliant interface tactile, recettes Cold Brew innovantes et personnalisation avancée. 23 boissons chaudes &amp; froides, carafe à lait amovible, profils utilisateurs et connectivité Bluetooth pour une expérience café complète. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur DeLonghi PrimaDonna Elite Experience ECAM650.85.MS",
+    "description":"<span style=\"font-weight: 400;\">La <strong>Delonghi PrimaDonna Elite Experience ECAM650.85.MS<\/strong> est une machine à café ultra-premium connectée, avec 21 boissons chaudes &amp; lactées, carafe à lait, 6 profils utilisateurs et interface tactile. Idéale pour une pause café personnalisée et haut de gamme. <\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur JURA E4 Piano White",
+    "description":"<span style=\"font-weight: 400;\">La <strong>JURA E4 Piano White<\/strong> est un expresso broyeur compact et haut de gamme, conçu pour les amateurs de café pur. Avec son broyeur Aroma professionnel, son extraction 3D, son réservoir généreux et sa compatibilité avec l'application J.O.E., elle offre une expérience café simple, intense et idéalement maîtrisée.<\/span>",
+    "tranche_prix":"1000 € à 1499 €",
+    "lait":"Acier",
+    "broyeur":"Europe (hors Suisse et Italie)",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur MELITTA Avanza Gris Titanium",
+    "description":"<span style=\"font-weight: 400;\">La <strong>MELITTA Avanza Gris Titanium<\/strong> est un expresso broyeur compact et silencieux, pensé pour les amateurs de café exigeants. Avec ses 3 recettes café, son moulin ultra silencieux, sa buse vapeur Easy Cappuccinatore et ses réservoirs XL, elle allie simplicité, efficacité et confort d'utilisation. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Buse vapeur manuelle",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur MELITTA Purista Noir Mat",
+    "description":"<span style=\"font-weight: 400;\">Le <strong>MELITTA Purista Noir Mat<\/strong> est un expresso broyeur ultra-compact, silencieux et élégant, conçu pour les amateurs de café pur. Grâce à son extraction optimisée, son moulin en acier et ses réglages personnalisables, il offre une expérience café de qualité professionnelle à la maison, en toute simplicité. <\/span>\r\\n\r\\n<span style=\"font-weight: 400;\"> <\/span>",
+    "tranche_prix":"Moins de 400 €",
+    "lait":"Noir Mat",
+    "broyeur":"Ultra compact (moins de 21 cm)",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur SMEG BCC12BLMEU",
+    "description":"<span style=\"font-weight: 400;\">La <strong>SMEG BCC12BLMEU<\/strong> combine design italien raffiné, compacité et performance pour offrir une expérience café sur mesure. Avec ses 6 recettes, sa buse vapeur intégrée et son broyeur en acier, il séduira les amateurs de café noir comme de boissons lactées, dans un format ultra élégant. <\/span>\r\\n\r\\n&nbsp;\r\\n\r\\n&nbsp;",
+    "tranche_prix":"Acier",
+    "lait":"Noir Mat",
+    "broyeur":"Ultra compact (moins de 21 cm)",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur DELONGHI Dinamica FEB3515.TB",
+    "description":"<span style=\"font-weight: 400;\">La <strong>DeLonghi Dinamica FEB3515.TB<\/strong> est un expresso broyeur intuitif et performant, pensé pour un usage quotidien. Avec son design élégant, ses 13 réglages de mouture, sa buse vapeur et ses 8 recettes café, il offre une expérience personnalisée et gourmande à chaque tasse.<\/span>",
+    "tranche_prix":"Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Buse vapeur manuelle",
+    "broyeur":"Acier",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur PHILIPS EP3321\/40",
+    "description":"<span style=\"font-weight: 400;\">La <strong>Philips EP3321\/40<\/strong> allie élégance, technologie et simplicité pour offrir jusqu'à 5 boissons café ou lactées, parfaitement personnalisables. Grâce à son broyeur en céramique, son écran tactile couleur et sa compatibilité avec l'application Coffee+, il garantit une expérience café haut de gamme, silencieuse et intuitive. <\/span>\r\\n\r\\n&nbsp;\r\\n\r\\n&nbsp;",
+    "tranche_prix":"Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Buse vapeur manuelle",
+    "broyeur":"Céramique",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur PHILIPS Baristina BAR300\/60",
+    "description":"<span style=\"font-weight: 400;\">La <strong>Philips Baristina BAR300\/60<\/strong> associe la simplicité d'une machine à capsules avec la qualité d'un broyeur automatique. Compacte, rapide (60 secondes), avec broyeur céramique intégré et pompe 16 bars, elle offre une vraie expérience espresso à base de grains, sans effort. <\/span>\r\\n\r\\n&nbsp;\r\\n\r\\n&nbsp;",
+    "tranche_prix":"Réglage de l'intensité, Réglage du volume en tasse",
+    "lait":"Sans système lait",
+    "broyeur":"Céramique",
+    "lien":""
+  },
+  {
+    "nom":"Expresso Broyeur KRUPS Sensation Milk EA912HF1",
+    "description":"<span style=\"font-weight: 400;\"> La <strong>KRUPS Sensation Milk EA912HF1<\/strong> allie technologie, compacité et gourmandise. Grâce à sa carafe à lait intégrée, son écran tactile intuitif et ses 12 recettes disponibles, elle permet de savourer chaque jour un café ou une boisson lactée digne d'un barista, à la maison<\/span>",
+    "tranche_prix":"Mémorisation des profils utilisateurs, Réglage de l'intensité, Réglage de la température, Réglage du volume en tasse",
+    "lait":"Carafe à lait automatique",
+    "broyeur":"Acier",
+    "lien":""
+  }
+]

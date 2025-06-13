@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Assistant IA Café</title>
+</head>
+<body>
+  <h1>Assistant IA – Machines à Café</h1>
+  <textarea id="question" placeholder="Décris ton besoin..."></textarea>
+  <button onclick="askGPT()">Envoyer</button>
+  <pre id="reponse"></pre>
+
+  <script>
+    async function askGPT() {
+      const question = document.getElementById('question').value;
+      const res = await fetch('/ask', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: question })
+      });
+      const data = await res.json();
+      document.getElementById('reponse').innerText = data.reply;
+    }
+  </script>
+</body>
+</html>
