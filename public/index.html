@@ -2,83 +2,99 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Assistant IA – Café</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Assistant IA – Machines à Café</title>
   <style>
     body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #f9f9f9;
       margin: 0;
       padding: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-      background-color: #f9f9f9;
-      color: #1d1d1f;
       display: flex;
-      flex-direction: column;
-      align-items: center;
       justify-content: center;
+      align-items: center;
       height: 100vh;
-      text-align: center;
+      color: #111;
+    }
+
+    .chat-container {
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      padding: 2rem;
+      max-width: 500px;
+      width: 90%;
     }
 
     h1 {
-      font-weight: 600;
-      font-size: 2.5rem;
+      font-size: 1.5rem;
       margin-bottom: 1rem;
+      text-align: center;
     }
 
-    input[type="text"] {
-      padding: 12px 16px;
-      border: 1px solid #ccc;
-      border-radius: 12px;
+    textarea {
+      width: 100%;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 0.75rem;
+      resize: none;
       font-size: 1rem;
-      width: 300px;
-      max-width: 90%;
-      outline: none;
       margin-bottom: 1rem;
+      height: 100px;
+      box-sizing: border-box;
     }
 
     button {
-      padding: 12px 24px;
-      background-color: #007aff;
+      width: 100%;
+      padding: 0.75rem;
+      background: #000;
       color: white;
       border: none;
-      border-radius: 12px;
+      border-radius: 10px;
       font-size: 1rem;
       cursor: pointer;
-      transition: background-color 0.2s ease-in-out;
+      transition: background 0.2s ease;
     }
 
     button:hover {
-      background-color: #005ce6;
+      background: #333;
     }
 
-    #response {
-      margin-top: 2rem;
-      font-size: 1.1rem;
-      max-width: 600px;
+    .response {
+      margin-top: 1rem;
+      white-space: pre-wrap;
+      font-size: 0.95rem;
+      color: #333;
     }
   </style>
 </head>
 <body>
-  <h1>Assistant IA – Café</h1>
-  <input type="text" id="userInput" placeholder="Décris ton besoin..." />
-  <button onclick="sendMessage()">Envoyer</button>
-  <div id="response"></div>
+  <div class="chat-container">
+    <h1>Assistant IA – Machines à Café</h1>
+    <textarea id="userInput" placeholder="Décris ton besoin (ex. : machine expresso, budget 400 €)..."></textarea>
+    <button onclick="sendMessage()">Envoyer</button>
+    <div class="response" id="response"></div>
+  </div>
 
   <script>
     async function sendMessage() {
-      const input = document.getElementById("userInput").value;
+      const userInput = document.getElementById("userInput").value;
       const responseDiv = document.getElementById("response");
-      responseDiv.innerText = "Chargement...";
+      responseDiv.textContent = "? Réflexion en cours...";
 
-      const res = await fetch("/ask", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ message: input })
-      });
+      try {
+        const res = await fetch("/ask", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ message: userInput })
+        });
 
-      const data = await res.json();
-      responseDiv.innerText = data.answer || "Erreur lors de la réponse.";
+        const data = await res.json();
+        responseDiv.textContent = data.message || "? Réponse invalide.";
+      } catch (error) {
+        responseDiv.textContent = "? Une erreur est survenue.";
+        console.error(error);
+      }
     }
   </script>
 </body>
